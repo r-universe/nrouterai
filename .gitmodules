@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/nrouterai/nrouterai.r-universe.dev
 	branch = HEAD
+[submodule "nrouter"]
+	path = nrouter
+	url = https://github.com/nRouterAI/nrouter-sdk
+	subdir = sdks/r
