@@ -1,0 +1,10 @@
+{
+  "id": 157963153,
+  "created_at": "2026-08-31T13:12:24.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["nrouter-sdk"]
+}
